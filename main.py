@@ -7,6 +7,8 @@ plt.title('Задание 1')
 plt.xlabel('значение x1')
 plt.ylabel('значение x2')
 plt.xlim(0,40)
+
+
 plt.ylim(0,40)
 plt.scatter(x=13,y=19,c='black')
 plt.scatter(x=17,y=14,c='black')
