@@ -1,14 +1,10 @@
 #Свеженцева,Сивцов, Михайловский 1 двойка
 import matplotlib.pyplot as plt
 
-
-
 plt.title('Задание 1')
 plt.xlabel('значение x1')
 plt.ylabel('значение x2')
 plt.xlim(0,40)
-
-
 
 plt.ylim(0,40)
 plt.scatter(x=13,y=19,c='black')
@@ -24,4 +20,3 @@ plt.text(21, 10, '4x1 + 5x2 <= 141',fontsize=10)
 plt.text(2, 1, 'z(3,4)',fontsize=10)
 plt.grid()
 plt.show()
-
