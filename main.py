@@ -24,3 +24,4 @@ plt.text(21, 10, '4x1 + 5x2 <= 141',fontsize=10)
 plt.text(2, 1, 'z(3,4)',fontsize=10)
 plt.grid()
 plt.show()
+
