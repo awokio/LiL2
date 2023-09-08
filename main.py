@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 
 
+
+
 plt.title('Задание 1')
 plt.xlabel('значение x1')
 plt.ylabel('значение x2')
